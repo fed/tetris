@@ -1,9 +1,9 @@
 'use strict';
 
 requirejs.config({
-  baseUrl: 'src/js',
+  baseUrl: 'src',
   paths: {
-    jquery: '../../node_modules/jquery/dist/jquery.min',
+    jquery: '../node_modules/jquery/dist/jquery.min',
   }
 });
 

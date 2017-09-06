@@ -5,7 +5,7 @@ requirejs.config({
     jquery: '../node_modules/jquery/dist/jquery.min',
     mocha: '../node_modules/mocha/mocha',
     chai: '../node_modules/chai/chai',
-    game: '../src/js/game'
+    game: '../src/game'
   }
 });
 
